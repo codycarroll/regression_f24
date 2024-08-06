@@ -95,10 +95,10 @@ The final exam will be a comprehensive written exam covering the main components
 |Week | Dates | Topics | Reading | Notable Events |
 | :---:  | :---:  | :---:  | :---:  | :---: |
 |Week 1| 8/20 & 8/22 | Intro, Simple Linear Regression: parameter estimation, mean, variance | |   |
-|Week 2| 8/27 & 8/29  | SLR: parameter distributions, sum of squares decomposition, confidence and prediction intervals, model assumptions and diagnostics | |  |
-|Week 3| 9/3 & 9/5 | Multiple Linear Regression: matrix notation; projection interpretation and geometry of regression| |  |
-|Week 4| 9/10 & 9/12 | ANOVA and the F-test, transformations, feature engineering |  |  |
-|Week 5| 9/17 & 9/19 | Modeling problems: multicollinearity, assumption violations, influential points, outliers |  | |
-|Week 6| 9/24 & 9/26 | Regression Pitfalls & Model Selection| |  |
-|Week 7| 10/1 & 10/3 |  Logistic Regression| | |
-|Week 8 (Fall Mod 1 Finals Week)| 10/8 & 10/10 | Catch-up / Buffer Time  | |  |
+|Week 2| 8/27 & 8/29  | SLR: parameter distributions, sum of squares decomposition, confidence and prediction intervals, model assumptions and diagnostics | | HW1 Due |
+|Week 3| 9/3 & 9/5 | Multiple Linear Regression: matrix notation; projection interpretation and geometry of regression| | HW2 Due |
+|Week 4| 9/10 & 9/12 | ANOVA and the F-test, transformations, feature engineering |  | HW3 Due + Quiz 1|
+|Week 5| 9/17 & 9/19 | Modeling problems: multicollinearity, assumption violations, influential points, outliers |  | HW4 Due |
+|Week 6| 9/24 & 9/26 | Regression Pitfalls & Model Selection| | HW5 Due |
+|Week 7| 10/1 & 10/3 |  Logistic Regression| | HW 6 Due + Quiz 2 |
+|Week 8 (Fall Mod 1 Finals Week)| 10/8 & 10/10 | Catch-up / Buffer Time  | | Final Project Due + Final Exam |
