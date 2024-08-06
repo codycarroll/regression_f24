@@ -42,9 +42,9 @@ By the end of this course, you will be able to:
 
 - Understand how to use dichotomous dependent variables, indicator (or dummy) independent variables, and interaction terms;
   
-- communicate the results of complete and well-reasoned regression analysis as an data analyst; and
+- Communicate the results of complete and well-reasoned regression analysis as an data analyst; and
 
-- critically evaluate and apply theoretical and applied concepts in statistical inference, honing your ability to engage with advanced statistical research and methodology.
+- Critically evaluate and apply theoretical and applied concepts in statistical inference, honing your ability to engage with advanced statistical research and methodology.
 
 ## Course Tenets:
 
