@@ -62,6 +62,7 @@ Our Github website can be found at: https://github.com/codycarroll/regression_f2
 ## Assessments
 
 **Attendance and Professionalism: 5%**
+
 Attendance is expected in all live lectures. Valid excuses for absence with permission will be accepted with documentation, but students are required to watch the lecture videos and submit class exercises and activities on Canvas if any.
 Students who miss the live lectures with a valid excuse are required to submit the exercises within 24 hours of class time (3pm PST/PDT next day).
 
