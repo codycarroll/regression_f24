@@ -19,7 +19,16 @@
 This course is an intensive introduction to linear models, with a focus on both principles and
 practice. Topics include simple and multiple linear regression; logistic regression;
 transformations; regression diagnostics and addressing violations of regression assumptions; and
-variable selection techniques. Programming language is Python
+variable selection techniques. Programming language is Python.
+
+## Course Tenets:
+
+When in doubt, rely on the following:
+- Put the work in & ask for help when stuck.
+- Ask questions before spiraling.
+- When confused, work with a partner & zoom into details.
+- When you understand, teach others & zoom out to debrief.
+- Use common sense whenever possible.
 
 ## Course Learning Objectives:
 
@@ -46,14 +55,7 @@ By the end of this course, you will be able to:
 
 - Critically evaluate and apply theoretical and applied concepts in statistical inference, honing your ability to engage with advanced statistical research and methodology.
 
-## Course Tenets:
 
-When in doubt, rely on the following:
-- Put the work in & ask for help when stuck.
-- Ask questions before spiraling.
-- When confused, work with a partner & zoom into details.
-- When you understand, teach others & zoom out to debrief.
-- Use common sense whenever possible.
 
 ## Course Website
 The class will be using Canvas & Github to distribute all resources.
