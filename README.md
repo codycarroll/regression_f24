@@ -101,4 +101,4 @@ The final exam will be a comprehensive written exam covering the main components
 |Week 5| 9/17 & 9/19 | Modeling problems: multicollinearity, assumption violations, influential points, outliers |  | |
 |Week 6| 9/24 & 9/26 | Regression Pitfalls & Model Selection| |  |
 |Week 7| 10/1 & 10/3 |  Logistic Regression| | |
-|Week 8 (Fall Mod 1 Finals Week)| 10/8 & 10/10 | Catch-up / Review  | |  |
+|Week 8 (Fall Mod 1 Finals Week)| 10/8 & 10/10 | Catch-up / Buffer Time  | |  |
