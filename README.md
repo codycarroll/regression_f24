@@ -8,6 +8,7 @@
 **Class Time**: TR 10a-12p or 1p-3p in SFH 154-156
 
 **Office Hours**:  Tues 3:30p-4:30p and  Wed 11a-12p on [Zoom](https://usfca.zoom.us/my/cody.carroll) 
+(subject to change during quiz/exam/pitch weeks - watch the course slack!)
 
 **Book**: Applied Linear Statistical Models by Kutner, Nachtsheim, Neter, and Li
 
