@@ -12,7 +12,7 @@
 
 **Book**: Applied Linear Statistical Models by Kutner, Nachtsheim, Neter, and Li
 
-**Syllabus**: [Link]()
+**Syllabus**: [Link](https://github.com/codycarroll/regression_f24/blob/main/Syllabus/MSDS_601_Fall-2024-Syllabus.pdf)
 
 ## Material Covered: 
 
