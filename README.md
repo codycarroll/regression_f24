@@ -17,8 +17,7 @@
 ## Material Covered: 
 
 This course is an intensive introduction to linear models, with a focus on both principles and
-practice. Examples from finance, business, marketing and economics are emphasized. Large data
-sets are used frequently. Topics include simple and multiple linear regression; logistic regression;
+practice. Topics include simple and multiple linear regression; logistic regression;
 transformations; regression diagnostics and addressing violations of regression assumptions; and
 variable selection techniques. Programming language is Python
 
