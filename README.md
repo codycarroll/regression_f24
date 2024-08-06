@@ -97,7 +97,7 @@ The final exam will be a comprehensive written exam covering the main components
 |Week 1| 8/20 & 8/22 | Intro, Simple Linear Regression: parameter estimation, mean, variance | |   |
 |Week 2| 8/27 & 8/29  | SLR: parameter distributions, sum of squares decomposition, confidence and prediction intervals, model assumptions and diagnostics | |  |
 |Week 3| 9/3 & 9/5 | Multiple Linear Regression: matrix notation; projection interpretation and geometry of regression| |  |
-|Week 4| 9/10 & 9/12 | |  |  |
+|Week 4| 9/10 & 9/12 | ANOVA and the F-test, transformations, feature engineering |  |  |
 |Week 5| 9/17 & 9/19 | Modeling problems: assumption violations, influential points, outliers |  | |
 |Week 6| 9/24 & 9/26 | Regression Pitfalls & Model Selection| |  |
 |Week 7| 10/1 & 10/3 |  Logistic Regression| | |
