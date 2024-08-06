@@ -3,7 +3,7 @@
 
 ## Cody Carroll
 
-**Email**: cjcarroll@usfca.edu
+**Email**: cjcarroll <at> usfca <dot> edu
 
 **Class Time**: TR 10a-12p or 1p-3p in SFH 154-156
 
