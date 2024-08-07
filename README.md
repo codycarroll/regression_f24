@@ -73,7 +73,7 @@ Professional behavior is expected both during classtime and outside of class whe
 
 **Homework: 25%**
 
-- You will be assigned computational and theoretical homework assignments to be completed and turned in on Canvas every Monday **before midnight** at 11:59p Pacific time.
+- You will be assigned computational and theoretical homework assignments to be completed and turned in on Canvas every Sunday **before midnight** at 11:59p Pacific time.
   
 - Students are encouraged to discuss and work together on assignments, but each student must turn in their own original work. **If there is evidence that the work turned in is not original work, which includes copying another student’s homework or using any solutions found online, all credit for that homework set will be forfeited. Homework is not to be posted to online help sites. These sites will be checked frequently.**
   
