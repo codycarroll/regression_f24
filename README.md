@@ -98,8 +98,8 @@ The final exam will be a comprehensive written exam covering the main components
 | :---:  | :---:  | :---:  | :---:  | :---: |
 |Week 1| 8/20 & 8/22 | Intro, Simple Linear Regression: parameter estimation, mean, variance | Sec. 1.5 & 1.6 |   |
 |Week 2| 8/27 & 8/29  | SLR: parameter distributions, sum of squares decomposition | Sec. 1.7, 2.1, 2.2,  2.7| HW1 Due |
-|Week 3| 9/3 & 9/5 | SLR: confidence and prediction intervals, model assumptions and diagnostics| 2.4-5, 3.1-3 | HW2 Due + Quiz 1|
-|Week 4| 9/10 & 9/12 |  Multiple Linear Regression: matrix notation; projection interpretation and geometry of regression| 6.1-6, 7.1-4  | HW3 Due |
+|Week 3| 9/3 & 9/5 | SLR: confidence and prediction intervals, model assumptions and diagnostics| 2.4-5, 3.1-3 | HW2 Due|
+|Week 4| 9/10 & 9/12 |  Multiple Linear Regression: matrix notation; projection interpretation and geometry of regression| 6.1-6, 7.1-4  | HW3 Due + Quiz 1|
 |Week 5| 9/17 & 9/19 |MLR: ANOVA and the F-test, transformations, feature engineering| 3.7, 7.1-6, 8.3 | HW4 Due |
 |Week 6| 9/24 & 9/26 |  Modeling problems: multicollinearity, assumption violations, influential points, outliers | Ch. 10 | HW5 Due + Quiz 2  |
 |Week 7| 10/1 & 10/3 | Regression Pitfalls & Model Selection| 6.8, 8.1-2,  9.1-4| HW 6 Due |
