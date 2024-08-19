@@ -80,17 +80,18 @@ Professional behavior is expected both during classtime and outside of class whe
 - _No late homework will be accepted._
 
 **Quizzes: 30%**
-- There will be 2 written quizzes in Module I. Details will be discussed in classes leading up to exam dates.
+- There will be 2 written quizzes in Module I, tentatively scheduled for: Thurs, Sept 12 and Thurs, Oct 3. Details will be discussed in classes leading up to exam dates.
 
 - No make-up or early exams will be given in order to ensure fairness and integrity of the class. Missing an exam without proper documentation of a personal illness or family emergency will result in a score of zero for that exam. Any documentation must be submitted to the instructor before the exam in question at the student’s earliest convenience.
 
 **Final Project 10%**
 
-The final project will be a computational group case study that brings together the techniques learned throughout the semester. The project outlines and groups will be published on Canvas. A final report of the project and peer review is due by the end of the module. 
+The final project will be a computational group case study that brings together the techniques learned throughout the semester. The project description and groups will be published on Canvas. A final report of the project is due by the end of the module, Saturday Oct 12 at 11:59p. 
 
 **Final Exam: 30%**
 
 The final exam will be a comprehensive written exam covering the main components of the course.
+It is tentatively scheduled for Thurs, Oct 10. 
 
 ## Schedule
 *subject to change
