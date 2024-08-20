@@ -47,7 +47,7 @@ By the end of this course, you will be able to:
 - Rigorously identify and manage outliers and influential observations and understanding the potential implications of leaving them uncensored;
 
   
-- Be able to modify regression models to encourage fitted residuals to more closely conform to the assumptions that underlying classical regression, i.e., handle multicollinearity, heteroscedasticity, autocorrelation, a non-normal error term, and specification errors;
+- Be able to modify regression models to encourage fitted residuals to more closely conform to the assumptions that underlying classical regression, i.e., handle multicollinearity, heteroskedasticity, autocorrelation, a non-normal error term, and specification errors;
 
 - Understand how to use dichotomous dependent variables, indicator (or dummy) independent variables, and interaction terms;
   
