@@ -59,7 +59,6 @@ By the end of this course, you will be able to:
 
 ## Course Website
 The class will be using Canvas & Github to distribute all resources.
-Our Github website can be found at: https://github.com/codycarroll/regression_f24/blob/main/README.md.
 
 ## Assessments
 
