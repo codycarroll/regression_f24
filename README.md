@@ -72,11 +72,11 @@ Professional behavior is expected both during classtime and outside of class whe
 
 **Homework: 25%**
 
-- You will be assigned computational and theoretical homework assignments to be completed and turned in on Canvas every Sunday **before midnight** at 11:59p Pacific time.
+- You will be assigned computational and theoretical homework assignments to be completed and turned in on Canvas every Friday **before midnight** at 11:59p Pacific time, with a 48 hour grace period.
   
 - Students are encouraged to discuss and work together on assignments, but each student must turn in their own original work. **If there is evidence that the work turned in is not original work, which includes copying another student’s homework or using any solutions found online, all credit for that homework set will be forfeited. Homework is not to be posted to online help sites. These sites will be checked frequently.**
   
-- _No late homework will be accepted._
+- _No late homework past the grace period will be accepted._
 
 **Quizzes: 30%**
 - There will be 2 written quizzes in Module I, tentatively scheduled for: Thurs, Sept 12 and Thurs, Oct 3. Details will be discussed in classes leading up to exam dates.
