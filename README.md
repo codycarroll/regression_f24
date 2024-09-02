@@ -103,4 +103,4 @@ It is tentatively scheduled for Thurs, Oct 10.
 |Week 5| 9/17 & 9/19 |MLR: ANOVA and the F-test, transformations, feature engineering| 3.7, 7.1-6, 8.3 | HW4 Due |
 |Week 6| 9/24 & 9/26 |  Modeling problems: multicollinearity, assumption violations, influential points, outliers | Ch. 10 | HW5 Due  |
 |Week 7| 10/1 & 10/3 | Regression Pitfalls & Model Selection| 6.8, 8.1-2,  9.1-4| HW 6 Due + Quiz 2  |
-|Week 8 | 10/8 & 10/10 |  Logistic Regression | Ch. 14 | Final Project Due + Final Exam |
+|Week 8 | 10/8 & 10/10 |  Logistic Regression | Ch. 14 | [Final Project Due](https://github.com/codycarroll/regression_f24/tree/main/Final%20Project) + Final Exam |
