@@ -29,8 +29,8 @@ variable selection techniques. Programming language is Python.
 |Week 2| 8/27 & 8/29  | SLR: parameter distributions, sum of squares decomposition | Sec. 1.7, 2.1, 2.2,  2.7| [HW1 Due](https://github.com/codycarroll/regression_f24/blob/main/HW/HW1.pdf) |
 |Week 3| 9/3 & 9/5 | SLR: confidence and prediction intervals, model assumptions and diagnostics + Start Multiple Linear Regression| 2.4-5, 3.1-3 | [HW2 Due](https://github.com/codycarroll/regression_f24/blob/main/HW/HW2.pdf)|
 |Week 4| 9/10 & 9/12 |  Multiple Linear Regression: matrix notation; ANOVA and the F-test; projection interpretation and geometry of regression| 6.1-6, 7.1-6  | [HW3 Due](https://github.com/codycarroll/regression_f24/blob/main/HW/HW3.pdf) + Quiz 1|
-|Week 5| 9/17 & 9/19 |MLR: transformations, feature engineering| 3.7, 7.1-6, 8.3 | [HW4 Due](https://github.com/codycarroll/regression_f24/blob/main/HW/HW4.pdf) |
-|Week 6| 9/24 & 9/26 |  Modeling problems: multicollinearity, assumption violations, influential points, outliers | Ch. 10 | [HW5 Due](https://github.com/codycarroll/regression_f24/blob/main/HW/HW5.pdf)  |
+|Week 5| 9/17 & 9/19 |MLR:  Feature engineering & Start Modeling Problems| 3.7, 7.1-6, 8.3 | [HW4 Due](https://github.com/codycarroll/regression_f24/blob/main/HW/HW4.pdf) |
+|Week 6| 9/24 & 9/26 |  Modeling problems: multicollinearity, assumption violations, influential points, outliers, transformations | Ch. 10 | [HW5 Due](https://github.com/codycarroll/regression_f24/blob/main/HW/HW5.pdf)  |
 |Week 7| 10/1 & 10/3 | Regression Pitfalls & Model Selection| 6.8, 8.1-2,  9.1-4| [HW 6 Due](https://github.com/codycarroll/regression_f24/blob/main/HW/HW6.pdf) + Quiz 2  |
 |Week 8 | 10/8 & 10/10 |  Logistic Regression | Ch. 14 | [Final Project Due](https://github.com/codycarroll/regression_f24/tree/main/Final%20Project) + Final Exam |
 
